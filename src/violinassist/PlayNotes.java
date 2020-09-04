@@ -32,7 +32,7 @@ public class PlayNotes {
     int channel = 0; // 0 is a piano, 9 is percussion, other channels are for other instruments
     int volume = 80; // between 0 et 127
     int duration = 3000; // in milliseconds
-    int instrument = 41;
+    int instrument = 40;
     int currentNote = 0;
     int cycles = 10;
     

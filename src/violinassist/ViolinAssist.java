@@ -42,6 +42,7 @@ public class ViolinAssist {
             va.printHelp();
         }
     } 
+    
     void startTuner() {
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
